@@ -5,7 +5,7 @@
 Udacity Python Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+Terminal which provide summary statistics of bikeshare data from New York City, Washington DC and Chicacgo. Created in Python.
 
 ### Files used
 Include the files used
