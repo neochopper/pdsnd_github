@@ -1,3 +1,10 @@
+###
+
+Terminal providing summary statistics of bikeshare data in New York City, Washington DC and Chicago.
+
+###
+
+
 import time
 import pandas as pd
 import numpy as np
