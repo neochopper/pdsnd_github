@@ -31,7 +31,7 @@ def get_filters():
 
     while month not in ['all', 'january', 'february', 'march', 'april', 'may', 'june']:
         month = input(
-            "Month name is invalid! Please input a valid month: ").lower()
+            "Month name is invalid! Please input a valid month name : ").lower()
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
     day = input("Please input day of week: ").lower()
