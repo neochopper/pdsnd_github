@@ -24,7 +24,7 @@ def get_filters():
 
     while city not in ['chicago', 'new york city', 'washington']:
         city = input(
-        "City is name is invalid! Please input a valid name: ").lower()
+        "City is name is invalid! Please input a valid city name: ").lower()
 
     # get user input for month (all, january, february, ... , june)
     month = input("Please input month name: ").lower()
